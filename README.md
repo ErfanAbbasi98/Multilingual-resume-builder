@@ -2,7 +2,6 @@
 
 > A free, browser-based resume builder that supports multiple languages — no sign-up, no backend, just your resume.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge)](https://erfanabbasi98.github.io/Multilingual-resume-builder)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
